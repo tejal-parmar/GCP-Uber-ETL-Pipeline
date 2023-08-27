@@ -24,4 +24,4 @@ Here is the dataset used :
 <br>Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Model
-![data_model](https://github.com/tejal-parmar/GCP-Uber-ETL-Pipeline/assets/111147531/2b8f6fb4-efa3-4320-8e5b-865831d0dc87)
+![data_model](https://github.com/tejal-parmar/GCP-Uber-ETL-Pipeline/assets/111147531/a592f64b-795a-4e71-84be-404e78be4d4e)
