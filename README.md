@@ -6,7 +6,8 @@ The goal of this project is to perform data analytics on Uber data using various
 ![architecture](https://github.com/tejal-parmar/GCP-Uber-ETL-Pipeline/assets/111147531/a0c337ba-1e37-4059-860a-5341dee937e2)
 
 ## Technologies Used
-  - Programming Language : Python
+
+Programming Language : Python
 
 Google Cloud Platform
   - Google Storage
@@ -14,7 +15,14 @@ Google Cloud Platform
   - BigQuery
   - Looker Studio
 
-Modern Data Pipeline Tool : https://www.mage.ai/
+Modern Data Pipeline Tool : 
+ - Mage is an open-source data pipeline tool for transforming and integrating data.
+ - The modern replacement for Airflow
+ - Build, manage, run and orchestate pipelines
+ - Load, transform, export data
+<br>https://www.mage.ai/
+<br>https://github.com/mage-ai/mage-ai
+ 
 
 ## Dataset Used
 TLC Trip Record Data Yellow and Green taxi trip records include fields capturing pick-up and drop-off dates/time, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
